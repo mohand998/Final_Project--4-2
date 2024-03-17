@@ -18,6 +18,7 @@ Technologies Used
 
 
 
+
 Software Requirements
 To run this project, ensure you have the following software installed:
 
@@ -31,7 +32,9 @@ To run this project, ensure you have the following software installed:
 
 
 
+
 Installation
+
 -Download the Zip folder and extract the files and folder now open in the installed IDE.
 
 -Clone the repository.
@@ -44,10 +47,16 @@ Installation
 
 
 
+
+
+
 Usage
+
 -Run the Flask application.
 
 -Access the web application in your browser.
+
+
 
 
 
