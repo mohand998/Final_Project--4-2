@@ -1,0 +1,54 @@
+.bg-nav{
+    background: #360033;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.mt-100{
+    margin-top:100px;
+}
+
+          .offcanvas-body {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            background-color: #f8f9fa; /* Light gray background color */
+            border-bottom: 1px solid #ddd; /* Light gray border bottom */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Shadow effect */
+        }
+        h5 {
+            margin: 0;
+            font-weight: normal;
+            font-size: 1.25rem;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #333; /* Dark gray text color */
+        }
+        .btn-outline-primary {
+            text-decoration: none;
+            color: #007bff; /* Primary color */
+            border: 1px solid #007bff; /* Primary color border */
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .social-links {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .social-links a {
+            text-decoration: none;
+            margin: 0 10px;
+            color: #007bff;
+        }
